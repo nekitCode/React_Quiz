@@ -1,0 +1,22 @@
+.Activequiz {
+	padding: 20px;
+	color: white;
+	border: 2px solid white;
+	border-radius: 5px;
+	margin: 0 10px;
+	box-sizing: border-box;
+}
+
+.Question {
+	display: flex;
+	justify-content: space-between;
+}
+
+.span {
+	max-width: 495;
+}
+
+.var_span {
+	min-width: 55px;
+	padding: 0 0 0 10px;
+}
